@@ -17,4 +17,4 @@ spec:
       - image: 211125558772.dkr.ecr.ca-central-1.amazonaws.com/k-food-app:5
         name: guestbook-ui
         ports:
-        - containerPort: 80
+        - containerPort: 8080
